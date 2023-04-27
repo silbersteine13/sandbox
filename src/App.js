@@ -4,7 +4,8 @@ import { useTranslation, Trans } from 'react-i18next';
 
 const lngs = {
   en: { nativeName: 'English' },
-  es: { nativeName: 'Español'}
+  es: { nativeName: 'Español'},
+  de: { nativeName: 'Deutsche'}
 };
 
 function App() {
