@@ -2,5 +2,7 @@
   "description": "Edit <1>src/App.js</1> and save to reload.",
   "key2": "Learn React",
   "reset-your-password": "{action} your password",
-  "action": "Reset"
+  "action": "Reset",
+  "mindfully-reset-your-password": "Reset your password",
+  "hey-jake-hello-there": "Hey Jake! Hello there!"
 }
