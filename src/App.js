@@ -33,6 +33,20 @@ function App() {
 
           {t('key2')}
         </a>
+{/* Concatenating externalized strings 
+\Three common errors:
+\incorrect word order, hard-coded punctuation marks, and improper word choice.
+*/}
+        <p>
+          {t('reset-your-password')}
+        </p>
+        <p>
+          {t('mindfully-reset-your-password')}
+        </p>
+        <p>
+          {t('hey-jake-hello-there')}
+        </p>
+
       </header>
     </div>
   );
