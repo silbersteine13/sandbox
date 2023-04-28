@@ -1,4 +1,8 @@
 {
     "description": "Edite <1>src/App.js</1 > y guarde para recargar.",
-    "key2": "aprender React"
+    "key2": "aprender React",
+    "reset-your-password": "{action} tu contraseña",
+    "action": "Reiniciar",
+    "mindfully-reset-your-password": "Restablecer su contraseña",
+    "hey-jake-hello-there": "¡Hola Jake! ¡Hola!"
 }

@@ -1,4 +1,8 @@
 {
     "description": "Bearbeiten Sie <1>src/App.js</1> und speichern Sie sie zum erneuten Laden.",
-    "key2": "Reagieren lernen"
+    "key2": "Reagieren lernen",
+    "reset-your-password": "{action} Ihr Passwort",
+    "action": "Zurücksetzen",
+    "mindfully-reset-your-password": "Setze dein Passwort zurück",
+    "hey-jake-hello-there": "Hey Jake! Hallo!"
 }
